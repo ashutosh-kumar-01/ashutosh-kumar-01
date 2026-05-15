@@ -14,56 +14,120 @@ Recently, I’ve expanded my expertise into **DevOps and Cloud Engineering**, fo
 
 ---
 
-## 🧑‍💻 Programming Languages
+## 🛠️ Tech Stack
 
+---
+
+# 🧑‍💻 Programming Languages
 <p align="center">
 <table>
 <tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="60"/><br>C++</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=c" width="60"/><br>C</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=java" width="60"/><br>Java</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=python" width="60"/><br>Python</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="60"/><br>JavaScript</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="60"/><br>C++</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="60"/><br>JavaScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts" width="60"/><br>TypeScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=php" width="60"/><br>PHP</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bash" width="60"/><br>Bash</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="60"/><br>HTML5</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="60"/><br>CSS3</td>
 </tr>
 </table>
 </p>
 
 ---
 
-## 🎨 Frontend Development
-
+# 🎨 Frontend Development
 <p align="center">
 <table>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" width="60"/><br>React</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" width="60"/><br>HTML</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" width="60"/><br>CSS</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="60"/><br>Tailwind</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="60"/><br>React.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="60"/><br>Next.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=redux" width="60"/><br>Redux</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="60"/><br>Tailwind CSS</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="60"/><br>Bootstrap</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=materialui" width="60"/><br>Material UI</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vite" width="60"/><br>Vite</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=figma" width="60"/><br>Figma</td>
 </tr>
 </table>
 </p>
 
 ---
 
-## ⚙️ Backend Development
-
+# ⚙️ Backend Development
 <p align="center">
 <table>
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="60"/><br>Node.js</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=express" width="60"/><br>Express.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="60"/><br>NestJS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=socketio" width="60"/><br>Socket.io</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="60"/><br>Firebase</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="60"/><br>Supabase</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=graphql" width="60"/><br>GraphQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="60"/><br>REST APIs</td>
 </tr>
 </table>
 </p>
 
 ---
 
-## 🗄 Database
-
+# 🗄️ Database & ORM
 <p align="center">
 <table>
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="60"/><br>MongoDB</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="60"/><br>PostgreSQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="60"/><br>PostgreSQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="60"/><br>MySQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="60"/><br>SQLite</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=redis" width="60"/><br>Redis</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="60"/><br>Prisma ORM</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sequelize" width="60"/><br>Sequelize</td>
+</tr>
+</table>
+</p>
+
+---
+
+# ☁️ Tools & Platforms
+<p align="center">
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=aws" width="60"/><br>AWS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="60"/><br>Docker</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=jenkins" width="60"/><br>Jenkins</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="60"/><br>Git</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="60"/><br>GitHub</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="60"/><br>GitHub Actions</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="60"/><br>Linux</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="60"/><br>Vercel</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=netlify" width="60"/><br>Netlify</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="60"/><br>Postman</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="60"/><br>VS Code</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=npm" width="60"/><br>NPM</td>
 </tr>
 </table>
 </p>
