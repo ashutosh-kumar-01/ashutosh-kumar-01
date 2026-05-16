@@ -1,214 +1,328 @@
- <h1 align="center">Hi, I'm Ashutosh Kumar</h1>
+<!-- ========================================================= -->
+<!--                  ⚡ PREMIUM GITHUB README                 -->
+<!-- ========================================================= -->
 
-  <h3 align="center">
-  Full Stack MERN Developer | DevOps & Cloud Enthusiast | CSE Student
-  </h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Ashutosh+Kumar;Full+Stack+MERN+Developer;DevOps+%26+Cloud+Engineer;Building+Scalable+Applications+🚀;Docker+%7C+Kubernetes+%7C+AWS+%7C+CI%2FCD;Always+Learning+New+Technologies" />
+</h1>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/ashutoshkumar69/">
-      <img src="https://img.shields.io/badge/LinkedIn-Ashutosh%20Kumar-0A66C2?style=for-the-
-  badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://github.com/ashutosh-kumar-01">
-      <img src="https://img.shields.io/badge/GitHub-ashutosh--kumar--01-181717?style=for-the-
-  badge&logo=github&logoColor=white" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=ashutosh-kumar-01&style=for-the-badge&color=blueviolet" />
-  </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:24243e&text=ASHUTOSH%20KUMAR&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=38"/>
+</p>
 
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?
-  font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Building+scalable+MERN+applic
-  ations;Designing+robust+backend+systems;Learning+DevOps%2C+Cloud+and+CI%2FCD;Solving+DSA+problems+with+consistency" />
-  </p>
+---
 
-  ---
+<p align="center">
 
-  ## About Me
+<a href="https://github.com/ashutosh-kumar-01">
+  <img src="https://img.shields.io/github/followers/ashutosh-kumar-01?style=for-the-badge&logo=github&color=00F7FF"/>
+</a>
 
-  I am a Full Stack MERN Developer and B.Tech Computer Science student at Lovely Professional University.
+<a href="https://www.linkedin.com/in/ashutoshkumar69/">
+  <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
 
-  I enjoy building scalable web applications, designing clean backend systems, and solving complex problems using data
-  structures and algorithms. Recently, I have been expanding into DevOps and Cloud Engineering with a focus on CI/CD,
-  Docker, automation, and containerized deployments.
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-FF006E?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  - Currently working with MERN stack, Next.js, TypeScript, and backend APIs
-  - Exploring DevOps, Cloud Engineering, Docker, Kubernetes, Jenkins, and AWS
-  - Strong interest in system design, scalable architecture, and automation
-  - Consistently improving problem-solving skills through LeetCode and DSA
+<img src="https://komarev.com/ghpvc/?username=ashutosh-kumar-01&style=for-the-badge&color=blueviolet"/>
 
-  ---
+</p>
 
-  ## Tech Stack
+---
 
-  ### Languages
+# 🌌 About Me
 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,php,bash,html,css" />
-  </p>
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-  ### Frontend
+```yaml
+Name: Ashutosh Kumar
 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui,vite,figma" />
-  </p>
+Role:
+  - Full Stack MERN Developer
+  - DevOps & Cloud Engineer
 
-  ### Backend
+Education:
+  - B.Tech Computer Science
+  - Lovely Professional University
 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,socketio,firebase,supabase,graphql,postman" />
-  </p>
+Focus:
+  - Scalable Web Applications
+  - Cloud Native Systems
+  - DevOps Automation
+  - Backend Engineering
 
-  ### Databases & ORM
+Currently Learning:
+  - Kubernetes
+  - Terraform
+  - AWS Architecture
+  - System Design
 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis,prisma,sequelize" />
-  </p>
+Achievements:
+  - Solved 1000+ DSA Problems
+  - Strong Problem Solving Skills
+```
 
-  ### DevOps & Cloud
+---
 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?
-  i=git,githubactions,docker,kubernetes,jenkins,aws,terraform,ansible,linux,maven" />
-  </p>
+# ⚡ Tech Stack
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Nexus-1B1C30?style=for-the-badge&logo=sonatype&logoColor=white" />
-    <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-    <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white" />
-  </p>
+---
 
-  ---
+## 👨‍💻 Programming Languages
 
-  ## What I Build
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,php,bash,html,css&theme=dark"/>
+</p>
 
-  - Full stack web applications using React, Next.js, Node.js, Express.js, and MongoDB
-  - REST APIs with authentication, validation, database modeling, and clean architecture
-  - Real-time applications using Socket.io
-  - CI/CD pipelines using GitHub Actions and Jenkins
-  - Dockerized applications ready for cloud deployment
-  - Scalable backend systems with clean database and API design
+---
 
-  ---
+## 🎨 Frontend Development
 
-  ## Featured Projects
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui,vite,figma&theme=dark"/>
+</p>
 
-  <table>
-  <tr>
-  <td width="50%">
+---
 
-  ### Project One
-  Full stack MERN application with authentication, dashboard, and REST APIs.
+## ⚙️ Backend Development
 
-  **Tech:** React, Node.js, Express, MongoDB, JWT
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,socketio,firebase,supabase,graphql,postman&theme=dark"/>
+</p>
 
-  [View Project](PROJECT_LINK_HERE)
+---
 
-  </td>
-  <td width="50%">
+## 🗄️ Database & ORM
 
-  ### Project Two
-  DevOps-focused project with Docker, CI/CD pipeline, and cloud deployment.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,prisma,sequelize&theme=dark"/>
+</p>
 
-  **Tech:** Docker, Jenkins, GitHub Actions, AWS
+---
 
-  [View Project](PROJECT_LINK_HERE)
+## ☁️ DevOps & Cloud
 
-  </td>
-  </tr>
-  <tr>
-  <td width="50%">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,ansible,jenkins,githubactions,linux,maven,git,github&theme=dark"/>
+</p>
 
-  ### Project Three
-  Next.js application with modern UI, optimized routing, and API integration.
+<p align="center">
 
-  **Tech:** Next.js, TypeScript, Tailwind CSS
+<img src="https://img.shields.io/badge/Nexus-1B1C30?style=for-the-badge&logo=sonatype&logoColor=white"/>
 
-  [View Project](PROJECT_LINK_HERE)
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
 
-  </td>
-  <td width="50%">
+</p>
 
-  ### Project Four
-  Backend system focused on API design, database structure, and scalability.
+---
 
-  **Tech:** Node.js, Express, PostgreSQL, Prisma
+# 🧠 Core Skills
 
-  [View Project](PROJECT_LINK_HERE)
+```yaml
+Frontend:
+  - React.js
+  - Next.js
+  - Tailwind CSS
+  - Redux
 
-  </td>
-  </tr>
-  </table>
+Backend:
+  - Node.js
+  - Express.js
+  - NestJS
+  - REST APIs
+  - GraphQL
 
-  ---
+Databases:
+  - MongoDB
+  - PostgreSQL
+  - Redis
+  - Prisma ORM
 
-  ## Core Skills
+DevOps:
+  - Docker
+  - Kubernetes
+  - Jenkins
+  - GitHub Actions
+  - Terraform
+  - AWS
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1f2937?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/System%20Design-111827?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/REST%20API%20Development-2563eb?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/CI%2FCD%20Pipelines-7c3aed?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Containerization-0f766e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-b45309?style=for-the-badge" />
-  </p>
+Programming:
+  - Data Structures & Algorithms
+  - OOP
+  - System Design
+```
 
-  ---
+---
 
-  ## GitHub Trophies
+# 🏆 GitHub Trophies
 
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ashutosh-kumar-01&theme=radical&no-frame=true&no-
-  bg=true&margin-w=10&row=1&column=7" />
-  </p>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ashutosh-kumar-01&theme=algolia&no-frame=true&margin-w=15&margin-h=15&row=2&column=4"/>
+</p>
 
-  ---
+---
 
-  ## GitHub Analytics
+# 📊 GitHub Analytics
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ashutosh-kumar-
-  01&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-kumar-
-  01&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-  </p>
+<p align="center">
 
-  <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=ashutosh-kumar-01&theme=tokyonight&hide_border=true" height="180" /
-  >
-  </p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashutosh-kumar-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-  ---
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-kumar-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-  ## LeetCode
+</p>
 
-  <p align="center">
-    <img src="https://leetcard.jacoblin.cool/ashutosh7761?theme=dark&font=Fira%20Code&ext=heatmap" />
-  </p>
+---
 
-  <p align="center">
-    <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="100" />
-    <img src="https://assets.leetcode.com/static_assets/others/2025.gif" width="100" />
-    <img src="https://assets.leetcode.com/static_assets/others/200.gif" width="100" />
-    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="100" />
-    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="100" />
-  </p>
+# 🔥 GitHub Streak
 
-  ---
+<p align="center">
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-kumar-01&theme=tokyonight&hide_border=true&background=0D1117"/>
+</p>
 
-  ## Connect With Me
+---
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/ashutoshkumar69/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-
-  badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://github.com/ashutosh-kumar-01">
-      <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-
-  badge&logo=github&logoColor=white" />
-    </a>
-  </p>
+# 📈 Contribution Graph
 
-  <h3 align="center">
-  Open to internships, full stack roles, backend roles, and DevOps/cloud opportunities.
-  </h3>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh-kumar-01&theme=react-dark&hide_border=true&bg_color=0D1117"/>
+</p>
+
+---
+
+# 🚀 DevOps Workflow
+
+```mermaid
+flowchart LR
+
+A[Code] --> B[GitHub]
+B --> C[GitHub Actions]
+C --> D[Docker Build]
+D --> E[Kubernetes Deploy]
+E --> F[AWS Cloud]
+```
+
+---
+
+# 🧩 Architecture Mindset
+
+```txt
+✔ Scalable Web Applications
+✔ REST API Design
+✔ Authentication Systems
+✔ Cloud Native Development
+✔ Containerized Deployments
+✔ CI/CD Automation
+✔ Infrastructure as Code
+✔ High Performance Backend Systems
+```
+
+---
+
+# 🏆 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/ashutosh7761?theme=dark&font=Nunito&ext=heatmap"/>
+</p>
+
+---
+
+# 🥇 LeetCode Badges
+
+<p align="center">
+
+<img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="120"/>
+
+<img src="https://assets.leetcode.com/static_assets/others/2025.gif" width="120"/>
+
+<img src="https://assets.leetcode.com/static_assets/others/200.gif" width="120"/>
+
+<img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="120"/>
+
+<img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="120"/>
+
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ashutoshkumar69/">
+  <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+<a href="https://github.com/ashutosh-kumar-01">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-FF006E?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ✨ Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🎵 Spotify Playing
+
+<p align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31v6z4t4b4z5w2w4d2j4k4l4m&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false"/>
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/ashutosh7761/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/ashutosh-kumar-01">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+```txt
+I love building scalable systems,
+automating workflows,
+and turning ideas into production-ready applications 🚀
+```
+
+---
+
+<h1 align="center">
+
+✨ Code • Build • Deploy • Repeat ✨
+
+</h1>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+</p>
