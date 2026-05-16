@@ -136,7 +136,7 @@ Recently, I’ve expanded my expertise into **DevOps and Cloud Engineering**, fo
 
 <img src="https://github-readme-stats.vercel.app/api?username=ashutosh-kumar-01&show_icons=true&theme=tokyonight" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodpandit72&layout=compact&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-kumar-01&layout=compact&theme=tokyonight" height="180"/>
 
 </p>
 
